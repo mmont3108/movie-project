@@ -39,7 +39,6 @@ function addMovieToFront(movie){
 function changeMovie(index,movie){
   
   movieQueue[index]=movie;
-  
   return movie;
 }
 
